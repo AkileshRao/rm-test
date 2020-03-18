@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700&display=swap');
+
+.users{
+  width: 800px;
+  margin: 2em auto;
+  table {
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+  }
+}
+
+.logout-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  button{
+    font-family: 'Poppins', sans-serif;
+    min-width: 100px;
+    display: flex;
+  justify-content: center;
+  }
+}
